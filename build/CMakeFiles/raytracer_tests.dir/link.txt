@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/raytracer_tests.dir/tests/test_raytracer.cpp.o -o raytracer_tests 

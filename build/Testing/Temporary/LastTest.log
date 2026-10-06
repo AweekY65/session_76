@@ -1,0 +1,20 @@
+Start testing: Oct 03 00:30 CST
+----------------------------------------------------------
+1/1 Testing: raytracer_tests
+1/1 Test: raytracer_tests
+Command: "/mnt2/zjh/code/Goleta/session_76/b/build/raytracer_tests"
+Directory: /mnt2/zjh/code/Goleta/session_76/b/build
+"raytracer_tests" start time: Oct 03 00:30 CST
+Output:
+----------------------------------------------------------
+30/30 checks passed
+ALL TESTS PASSED
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"raytracer_tests" end time: Oct 03 00:30 CST
+"raytracer_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 03 00:30 CST
